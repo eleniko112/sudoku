@@ -1,0 +1,6 @@
+{
+  "name": "სუდოკუ",
+  "description": "სუდოკუს სრულფასოვანი თამაში ქართულ ენაზე სხვადასხვა სირთულის დონით, ლიდერბორდითა და თავსატეხების გენერატორით.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
